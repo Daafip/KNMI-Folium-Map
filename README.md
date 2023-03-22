@@ -2,7 +2,8 @@
 Webscrapes the KNMI website and makes a folium map out of the locations. 
 
 # using the maps:
-The two HTML files can be used to see which KNMI station is closest
+The three HTML files can be used locally to see which KNMI station is closest.
+Alternatively, the notebook can be viewed on nbviewer.org, which can be seen [here](https://nbviewer.org/github/Daafip/KNMI-Folium-Map/blob/main/Hourly%20%26%20daily%20station%20data%20KNMI%202023-03-21.html)
 
 # running the code 
 The code is writen in a jupyter notebook and can be reproduced and used there. 
