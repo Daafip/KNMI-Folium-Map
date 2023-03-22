@@ -9,4 +9,4 @@ Alternatively, the notebook can be viewed on nbviewer.org, which can be seen [he
 The code is writen in a jupyter notebook and can be reproduced and used there. 
 
 #### Packages
-A requirements.yml is availible, this can be used with [conda](https://conda.io/docs/user-guide/tasks/manage-environments.html) to install the correct packages needed. A new conda environment is advised as the geospatial packages are fairly demanding. Namely [Geopandas](https://geopandas.org) & [Folium](https://python-visualization.github.io/folium/) are needed.
+A requirements.yml is availible {TODO}, this can be used with [conda](https://conda.io/docs/user-guide/tasks/manage-environments.html) to install the correct packages needed. A new conda environment is advised as the geospatial packages are fairly demanding. Namely [Geopandas](https://geopandas.org) & [Folium](https://python-visualization.github.io/folium/) are needed.
